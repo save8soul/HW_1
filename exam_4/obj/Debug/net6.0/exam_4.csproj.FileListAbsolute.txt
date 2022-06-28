@@ -1,0 +1,15 @@
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/bin/Debug/net6.0/exam_4
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/bin/Debug/net6.0/exam_4.deps.json
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/bin/Debug/net6.0/exam_4.runtimeconfig.json
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/bin/Debug/net6.0/exam_4.dll
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/bin/Debug/net6.0/exam_4.pdb
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.csproj.AssemblyReference.cache
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.AssemblyInfoInputs.cache
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.AssemblyInfo.cs
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.csproj.CoreCompileInputs.cache
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.dll
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/refint/exam_4.dll
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.pdb
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/exam_4.genruntimeconfig.cache
+/Users/save8soul/Desktop/prog_edu/HW_1/exam_4/obj/Debug/net6.0/ref/exam_4.dll
